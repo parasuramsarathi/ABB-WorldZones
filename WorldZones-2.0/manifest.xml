@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DistributionPackage>
+  <Title>WorldZones</Title>
+  <Creator>Parasuram</Creator>
+  <Description>Visualize world zones in graphics and Robot current position</Description>
+  <Date>2022-01-30</Date>
+  <SideBySide>false</SideBySide>
+  <Documentation>Documentation\user_manual.pdf</Documentation>
+</DistributionPackage>
